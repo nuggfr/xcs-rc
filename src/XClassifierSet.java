@@ -376,7 +376,7 @@ public class XClassifierSet implements Serializable {
 			pop = pop.parentSet;
 
 		if (clSet[0] != null) {
-			double P = reward + XCSConstants.gamma * maxPrediction;
+			double P = reward //+ XCSConstants.gamma * maxPrediction; // gamma is for multistep
 
 			for (int i = 0; i < cllSize; i++) {
 				double prevPredErr = clSet[i].getPredictionError();
