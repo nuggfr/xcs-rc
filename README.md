@@ -15,4 +15,5 @@ New parameters in XCS-RC:
 
 Removed/unused parameters: <b>all</b> related to mutation and crossover.
 
+This algorithm in C++ available <a href="https://github.com/nuggfr/xcs-rc-cpp">here</a>.<br>
 Should there be questions, feel free to ask. &#128578;
