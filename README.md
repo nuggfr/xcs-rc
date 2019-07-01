@@ -1,4 +1,4 @@
-# xcs-rc
+# xcs-rc java
 Accuracy-based Learning Classifier Systems with Rule Combining mechanism (XCS-RC)
 
 Based on Martin Butz's XCS code (2001) in Java.
