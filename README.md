@@ -17,17 +17,6 @@ Removed/unused parameters: <b>all</b> related to mutation and crossover.
 
 ---
 
-To give you an impression regarding the results, this is the output for multiplexer cases:
-
-Binary input ['0', '1'] 11-bit:<br>
-<img src="xcs-rc-mp11-binary.JPG">
-<br>
-<br>
-Real input [0.000...1.000] 6-bit:<br>
-<img src="xcs-rc-mp6-real.JPG">
-
----
-
 This identical algorithm in different languages:
 <ul>
 <li> Java <a href="https://github.com/nuggfr/xcs-rc-java">here</a>
